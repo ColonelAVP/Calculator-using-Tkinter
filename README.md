@@ -33,9 +33,7 @@ To explore more options to make your application interactive, check the Tk docum
 
 
 ## Reference 
-* Website:
-- [Calculator-using-python](https://www.activestate.com/resources/quick-reads/how-to-create-a-calculator-in-python-tkinter)
-- [GUI-Calculator-Tkinter](https://medium.com/@adeyinkaadegbenro/project-build-a-python-gui-calculator-fc92bddb744d)
+* Websites: [Calculator-using-python](https://www.activestate.com/resources/quick-reads/how-to-create-a-calculator-in-python-tkinter) | [GUI-Calculator-Tkinter](https://medium.com/@adeyinkaadegbenro/project-build-a-python-gui-calculator-fc92bddb744d)
 * [Tk docs](https://github.com/ColonelAVP/Calculator-using-Tkinter/blob/master/Tkinter_docs.py)
 * Youtube: [Create_calculator_using_GUI](https://www.youtube.com/watch?v=9WPmxH4RRZ0&t=360s)
 
